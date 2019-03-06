@@ -1,6 +1,6 @@
 <h1>Emojis sobre HackerGarage 1.0</h1>
 
-Los emojis sobre HackerGarage festejan la cultura del hacker space más grande de México. Esta serie de imágenes son representativas sobre los elementos que caracterizan al sitio y sobre la convivencia que hay dentro del mismo. Todas las personas que están dentro y fuera de la comunidad están invitadas a contribuir.
+Los emojis sobre <a href="https://hackergarage.mx/">HackerGarage</a> festejan la cultura del hacker space más grande de México. Esta serie de imágenes son representativas sobre los elementos que caracterizan al sitio y sobre la convivencia que hay dentro del mismo. Todas las personas que están dentro y fuera de la comunidad están invitadas a contribuir.
 
 <h2>Lineamientos</h2>
 
