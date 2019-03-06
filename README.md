@@ -8,7 +8,7 @@ La identidad gráfica pertenece a la serie de emojis <a href="https://github.com
 
 <h2>Aplicación</h2>
 
-Para obtener los emojis se puede descargar la carpeta <b>PNG</b> y descargar directamente las imágenes, las cuales pueden ser utilizadas para distintas aplicaciones o redes sociales. La carpeta <b>APP</b> cuenta con un archivo APK, el cual instala directamente los emojis en la cuenta de Whatsapp para Android, pero requiere permiso de terceros para poder ser instalado.
+Para obtener los emojis se puede descargar la carpeta <b>PNG</b> y descargar directamente las imágenes, las cuales pueden ser utilizadas para distintas aplicaciones o redes sociales. La carpeta <b>APP</b> cuenta con un archivo APK, el cual instala directamente los emojis en la cuenta de <a href="https://github.com/WhatsApp/stickers">Whatsapp</a> para Android, pero requiere permiso de terceros para poder ser instalado.
 En caso contrario existen opciones tanto para Android así como para iOS, los cuales facilita la creación de paquetes de emojis para distintas redes sociales.
 
 <h2>Licencia</h2>
