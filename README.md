@@ -4,7 +4,7 @@ Los emojis sobre HackerGarage festejan la cultura del hacker space más grande d
 
 <h2>Lineamientos</h2>
 
-La identidad gráfica pertenece a la serie de emojis Noto-Emoji por Google. De esta base de datos se obtienen los svg, los cuales se modifican con las características que pertenecen a HackerGaragre. Siempre que se haga una modificación se debe conservar una imagen PNG y el archivo SVG que originó al Emoji.
+La identidad gráfica pertenece a la serie de emojis <a href="https://github.com/googlei18n/noto-emoji/">Noto-Emoji por Google</a>. De esta base de datos se obtienen los svg, los cuales se modifican con las características que pertenecen a HackerGaragre. Siempre que se haga una modificación se debe conservar una imagen PNG y el archivo SVG que originó al Emoji.
 
 <h2>Aplicación</h2>
 
